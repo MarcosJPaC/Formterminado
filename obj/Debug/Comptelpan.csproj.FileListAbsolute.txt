@@ -1,0 +1,10 @@
+C:\Users\Computadora\source\repos\Comptelpan\bin\Debug\Comptelpan.exe.config
+C:\Users\Computadora\source\repos\Comptelpan\bin\Debug\Comptelpan.exe
+C:\Users\Computadora\source\repos\Comptelpan\bin\Debug\Comptelpan.pdb
+C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.csprojAssemblyReference.cache
+C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.Form1.resources
+C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.Properties.Resources.resources
+C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.csproj.GenerateResource.cache
+C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.csproj.CoreCompileInputs.cache
+C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.exe
+C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.pdb
