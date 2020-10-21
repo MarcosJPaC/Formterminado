@@ -8,3 +8,13 @@ C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.csproj.Generat
 C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.csproj.CoreCompileInputs.cache
 C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.exe
 C:\Users\Computadora\source\repos\Comptelpan\obj\Debug\Comptelpan.pdb
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\bin\Debug\Comptelpan.exe.config
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\bin\Debug\Comptelpan.exe
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\bin\Debug\Comptelpan.pdb
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\obj\Debug\Comptelpan.csprojAssemblyReference.cache
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\obj\Debug\Comptelpan.Properties.Resources.resources
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\obj\Debug\Comptelpan.csproj.GenerateResource.cache
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\obj\Debug\Comptelpan.csproj.CoreCompileInputs.cache
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\obj\Debug\Comptelpan.exe
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\obj\Debug\Comptelpan.pdb
+C:\Users\Computadora\Source\Repos\Formterminadoborrar\obj\Debug\Comptelpan.Formulario1.resources

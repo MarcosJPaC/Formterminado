@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Comptelpan
 {
-    class Computadora
+    class Pantallatv
     {
 
         //Variables
@@ -16,11 +16,11 @@ namespace Comptelpan
             get { return tamaño_pantalla; }
             set { tamaño_pantalla = value; }
         }
-        protected string color;
-        public string Color
+        protected int peso;
+        public int Peso
         {
-            get { return color; }
-            set { color = value; }
+            get { return peso; }
+            set { peso = value; }
         }
         protected bool touch;
         public bool Touch
@@ -31,16 +31,16 @@ namespace Comptelpan
 
 
         //Constructor
-        public Computadora()
+        public Pantallatv()
         {
             tamaño_pantalla = " ";
-            color = " ";
+            peso = 0;
             touch = true;
         }
         //Metodos
         public override string ToString()
         {
-            return "Tamaño de la pantalla: " + tamaño_pantalla + " - Color: " + color;
+            return "Tamaño de la pantalla: " + tamaño_pantalla + " - Peso: " + peso + " Kg";
         }
     }
 }

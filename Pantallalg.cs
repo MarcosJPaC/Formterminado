@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Comptelpan
 {
-    class Telefono : Computadora
+    class Pantallalg : Pantallatv
     {
         protected string tipodeconexion;
         public string Tipodeconexion
@@ -14,18 +14,10 @@ namespace Comptelpan
             get { return tipodeconexion; }
             set { tipodeconexion = value; }
         }
-        protected bool ttouch;
-        
-        public bool Ttouch
-        {
-            get { return ttouch; }
-            set { ttouch = value; }
-        }
-
-        public Telefono(): base()
+        public Pantallalg(): base()
         {
             tipodeconexion = " ";
-            ttouch = true;
+            
         }
         public override string ToString()
         {
